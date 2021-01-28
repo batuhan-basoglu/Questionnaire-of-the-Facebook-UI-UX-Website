@@ -1,0 +1,76 @@
+body {
+    background-color: #66BFBF;
+    text-align: center;
+    background-image: url("images/bg3.jpg");
+
+  }
+
+h1{
+    font-family: "Helvetica ", sans-serif;
+    font-size: 40px;
+    color: rgb(45, 43, 170);
+
+
+}
+
+.survey_body{
+    background-color: #ffffff;
+    margin: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.form-control{
+    padding-right: 43%;
+    text-align: right;
+    margin: 10px 0px;
+    font-size: 20px;
+}
+
+
+.texto{
+    text-align: center;
+}
+
+.gender{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 20x;
+    padding-left: 10px;
+}
+
+.box{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.btn-control{
+    padding-bottom: 20px;
+    padding-left: 41%;
+    text-align: left;
+    font-size: 20px;
+}
+
+.questions{
+    padding-top: 20px;
+}
+
+.fb{
+    width: 10%;
+    height:auto;
+
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(87, 139, 216);
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+
