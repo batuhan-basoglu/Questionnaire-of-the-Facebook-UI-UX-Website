@@ -1,8 +1,8 @@
-# Facebook UI/UX Website
+# Questionnaire of the Facebook UI/UX Website
 
 The website of a Facebook Survey made by Ruchira Perrera, Sam Oyediran, Batuhan Basoglu, and Kene Ojukwu
 
-https://arctichawk1.github.io/Facebook-UI-UX-Website/
+https://arctichawk1.github.io/Questionnaire-of-the-Facebook-UI-UX-Website/
 
 # Authors
 
