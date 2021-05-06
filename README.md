@@ -1,8 +1,8 @@
-# SEG3125-LAB1
+# Facebook UI/UX Website
 
 The website of a Facebook Survey made by Ruchira Perrera, Sam Oyediran, Batuhan Basoglu, and Kene Ojukwu
 
-https://arctichawk1.github.io/SEG3125-LAB1/
+https://arctichawk1.github.io/Facebook-UI-UX-Website/
 
 # Authors
 
